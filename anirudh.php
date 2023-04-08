@@ -1,7 +1,7 @@
 <?php
-echo "ANIRUDH";
-echo "My age is 23 years";
-echo "He is in Comp. Sci. branch";
-echo "He is in ymca";
-echo "He is a boy";
+echo "ANIRUDH\n"; 
+echo "My age is 23 years\n"; 
+echo "He is in Comp. Sci. branch\n"; 
+echo "He is in ymca\n"; 
+echo "He is a boy\n"; 
 ?>
