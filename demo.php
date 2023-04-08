@@ -8,7 +8,7 @@
 <body>
 	<?php echo "All PHP Examples by Anirudh !!!!"; ?> <br> <br>
 	<ol>
-		<li><a href="index.php"> This is intro </a></li> <br>
+		<li><a href="intro.php"> This is intro </a></li> <br>
 		<li><a href="link1.php"> This is String Example </a></li> <br>
 		<li><a href="Array.php"> This is Array Example </a></li> <br>
 		<li><a href="ifelse.php"> This is if else Example</a></li> <br>
